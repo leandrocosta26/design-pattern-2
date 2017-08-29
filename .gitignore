@@ -1,1 +1,4 @@
 target/
+.idea/.name
+.idea/sonarlint/
+second-module.iml
